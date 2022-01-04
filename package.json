@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
@@ -17,5 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vartika2002/weather-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vartika2002/weather-website/issues"
+  },
+  "homepage": "https://github.com/vartika2002/weather-website#readme",
+  "description": ""
 }
